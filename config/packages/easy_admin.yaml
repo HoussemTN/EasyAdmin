@@ -1,0 +1,5 @@
+easy_admin:
+  design:
+    brand_color: '#FF00FF'
+    assets:
+      css: ['css/custom_backend.css']
